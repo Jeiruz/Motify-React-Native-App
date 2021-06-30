@@ -1,0 +1,5 @@
+- things to work with
+    -> fix the performace issue.
+    -> do the refresh thing.
+    -> handle the errors.
+    -> do the notifications, including the push notification if possible.
